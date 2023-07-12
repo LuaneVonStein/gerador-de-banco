@@ -29,4 +29,4 @@ consultarSaldo();
 sacar(100);
 consultarSaldo();
 
-  
+parseInt(prompt('coloque o valor'));
